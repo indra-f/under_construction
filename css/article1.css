@@ -1,0 +1,22 @@
+#main-img {
+    max-width: 100%;
+    cursor: pointer;
+}
+.small-img {
+    max-width: 100%;
+    cursor: pointer;
+}
+p {
+    text-align: justify;
+}
+.breadcrumb {
+    font-size: small;
+    background: none;
+    margin-top: 2.5px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+footer {
+    font-size: small;
+    display: block;
+}
